@@ -14,7 +14,7 @@ Welcome to my analysis of the data job market, focusing on data analyst roles. T
 To find the most demanded skills for the top 3 most popular data roles. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 3 roles. This query highlights the most popular job titles and their top skills.
 
 # View the source code
-[Top Skills.py](project\skills_count.py)
+[Top Skills.py](skills_count.py)
 
 ### Visualization code snippet
 ```fig, ax = plt.subplots(len(top3), 1)
@@ -56,7 +56,7 @@ most prominently for data science (72%) & data engineer (65%) roles.
 To find how skills are trending in 2023 for Data Analysts roles in USA, I filtered data analyst positions and grouped the skills by the month of the job postings. This got me the top 5 skills of data analysts by month.
 
 # View the source code
-[Trend Skills.py](project\trend_skills.py)
+[Trend Skills.py](trend_skills.py)
 
 
 ### Visualization code snippet
@@ -99,7 +99,7 @@ plt.show()
 To identify the highest-paying roles and skills, I only got jobs in the United States and looked at their median salary. But first I looked at the salary distributions of common data jobs like Data Scientist, Data Engineer, and Data Analyst, to get an idea of which jobs are paid the most.
 
 # View the source code
-[Trend Skills.py](project\Salary_analytics.py)
+[Trend Skills.py](Salary_analytics.py)
 
 
 ### Visualization code snippet
@@ -141,7 +141,7 @@ plt.show()
 Next, I narrowed my analysis and focused only on data analyst roles. I looked at the highest-paid skills and the most in-demand skills. I used two bar charts to showcase these.
 
 # View the source code
-[Trend Skills.py](project\Salary_analytics.py)
+[Trend Skills.py](Salary_analytics.py)
 
 
 ### Visualization code snippet
@@ -195,7 +195,7 @@ plt.show()
 To identify the most optimal skills to learn ( the ones that are the highest paid and highest in demand) I calculated the percent of skill demand and the median salary of these skills. To easily identify which are the most optimal skills to learn.
 
 # View the source code
-[Optimal Skills.py](project\optimal_skills.py)
+[Optimal Skills.py](optimal_skills.py)
 
 
 ### Visualization code snippet
