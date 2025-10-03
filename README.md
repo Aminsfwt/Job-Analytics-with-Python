@@ -146,7 +146,7 @@ Next, I narrowed my analysis and focused only on data analyst roles. I looked at
 
 ### Visualization code snippet
 ```
-#top 10 most payied job skills
+
 USA_DA_top_pay = USA_DA.groupby('job_skills')['salary_year_avg'].agg(['count', 'median']).sort_values(by='median', ascending=False)
 USA_DA_top_pay = USA_DA_top_pay.head(10)
 
