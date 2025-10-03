@@ -40,7 +40,7 @@ plt.show()
 ```
 ### Results
 
-![Likelihood of skills requested in USA job postings](LikelihoodofUSAjobskills.png)
+![Likelihood of skills requested in USA job postings](Images/LikelihoodofUSAjobskills.png)
 
 ### Insights
 
@@ -85,7 +85,7 @@ plt.show()
 ```
 ### Results
 
-![Likelihood of trending skills for Data Analyst role in 2023 in USA](Trending_Top_Skills.png)
+![Likelihood of trending skills for Data Analyst role in 2023 in USA](Images/Trending_Top_Skills.png)
 
 ### Insights
 - SQL remains the most consistently demanded skill throughout the year, although it shows a gradual decrease in demand.
@@ -128,7 +128,7 @@ plt.show()
 ```
 ### Results
 
-![Likelihood of trending skills for Data Analyst role in 2023 in USA](Salary_analytics.png)
+![Likelihood of trending skills for Data Analyst role in 2023 in USA](Images/Salary_analytics.png)
 
 ### Insights
 - There's a significant variation in salary ranges across different job titles. Senior Data Scientist positions tend to have the highest salary potential, with up to $600K, indicating the high value placed on advanced data skills and experience in the industry.
@@ -182,7 +182,7 @@ plt.show()
 ```
 ### Results
 
-![Likelihood of trending skills for Data Analyst role in 2023 in USA](Highest_PaidMost_Demanded_Skills.png)
+![Likelihood of trending skills for Data Analyst role in 2023 in USA](Images/Highest_PaidMost_Demanded_Skills.png)
 
 # Insights:
 - The top graph shows specialized technical skills like dplyr, Bitbucket, and Gitlab are associated with higher salaries, some reaching up to $200K, suggesting that advanced technical proficiency can increase earning potential.
@@ -238,7 +238,7 @@ plt.show()
 ```
 ### Results
 
-![Most Optimal Skills for Data Analysts in the US](Most_Optimal_Skill.png)
+![Most Optimal Skills for Data Analysts in the US](Images/Most_Optimal_Skill.png)
 
 # Insights:
 - The scatter plot shows that most of the programming skills (colored blue) tend to cluster at higher salary levels compared to other categories, indicating that programming expertise might offer greater salary benefits within the data analytics field.
